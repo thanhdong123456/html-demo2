@@ -1,0 +1,215 @@
+/*Ipad ngang(1024 x 768)*/
+@media screen and (max-width: 1024px){
+    .logo{
+        height: 20px;
+    }
+    .navigation{
+        width: fit-content;
+        margin-top: 5px;
+        margin-left: 30px;
+    }
+    .navigation li{
+        font-size: 13px;
+        line-height: 10px;
+        margin-right: 10px;
+    }
+    .login{
+        font-size: 13px;
+        margin-left: 30%;
+    }
+    .group1 img{
+
+        width: 200px;
+        height: 153px;
+    }
+    .group2{
+        width: 240px;
+        height: 150px;
+        top: 90%;
+    }
+    .group2 .stripe{
+        margin-top: 20px;
+    }
+    .stripe img{
+        width: 40px;
+        margin-left: 30px;
+    }
+    .stripe p{
+        font-size: 10px;
+        margin-left: 20px;
+        margin-top: 3px;
+    }
+    .btn1{
+        width: 40px;
+        height: 20px;
+        margin-left: 20px;
+        margin-top: 2px;
+    }
+    .btn1 .sup-btn{
+        width: 15px;
+        height: 15px;
+        margin-top: 2px;
+        margin-left: 22px;
+        background-color: white;
+        border-radius: 15px;
+    }
+    .group2 .paypal{
+        margin-top: 20px;
+    }
+    .paypal img{
+        width: 50px;
+        margin-left: 20px;
+    }
+    .paypal p{
+        font-size: 10px;
+        margin-left: 20px;
+        margin-top: 9px;
+    }
+    .paypal .btn1{
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .group2 .bank{
+        margin-top: 20px;
+    }
+    .bank img{
+        width: 15px;
+        margin-left: 40px;
+    }
+    .bank p{
+        margin-left: 35px;
+        margin-top: 3px;
+        font-size: 10px;
+    }
+    .bank .btn1{
+        margin-left: 22px;
+    }
+    .group3{
+        height: 80%;
+    }
+    .group3-content .shoes{
+        margin-top: 15px;
+        margin-left: 20px;
+    }
+    .shoes-title{
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .shoes-title p{
+        line-height: 30px;
+        font-size: 20px;
+    }
+    .buttons{
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .button-group1 button{
+        width: 20px;
+        height: 20px;
+        font-size: 9px;
+    }
+    .buttons .button-group2{
+        margin-top: 10px;
+        margin-left: 80px;
+    }
+    .button-group2 button{
+        width: 25px;
+        height: 25px;
+    }
+    #price{
+        top: 140px;
+        font-size: 20px;
+    }
+    #price-sub{
+        font-size: 12px;
+    }
+    #btn-cart{
+        width: 110px;
+        height: 35px;
+    }
+    .group4 .khoi1 div{
+        width: 4px;
+        height: 4px;
+    }
+    .group5{
+        top: -45px;
+        width: 150px;
+        height: 400px;
+        right: 38%;
+    }
+    .group5 .khoi1 div{
+        width: 4px;
+        height: 4px;
+    }
+    .group6{
+        width: 150px;
+        height: 400px;
+        top: 100px;
+    }
+    .group6 .khoi1 div{
+        width: 4px;
+        height: 4px;
+    }
+    #cart{
+        width: 50px;
+        height: 50px;
+        top: 260px;
+    }
+    #sale{
+        width: 80px;
+        height: 30px;
+        right: 38%;
+        top: 65px;
+    }
+    #sale p {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 30px;
+    }
+    #safe{
+        width: 60px;
+        height: 40px;
+        right: 9%;
+        top: 300px;
+    }
+    #vector{
+        width: 550px;
+        height: 650px;
+    }
+    .bg-info{
+        top: 130px;
+    }
+    .bg-title{
+        margin-left: 100px;
+    }
+    .bg-title p{
+        font-size: 43px;
+        line-height: 60px;
+    }
+    .bg-content{
+        width: 400px;
+        margin-left: 100px;
+        margin-top: 30px;
+        font-size: 13px;
+    }
+    .bg-btn-group{
+        margin-left: 100px;
+    }
+    
+}
+/*Ipad dọc(768 x 1024)*/
+@media screen and (max-width: 768px){
+    
+}
+/*Tablet nhỏ(480 x 640)*/
+@media screen and (max-width: 480px){
+    
+}
+/*Iphone(480 x 640)*/
+@media screen and (max-width: 320px){
+    
+}
+/*Smart phone nhỏ*/
+@media screen and (max-width: 240px){
+    
+}
